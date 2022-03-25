@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>talha faisal </title>
+</head>
+
+<body>
+  <h1>Basic Info </h1>
+
+  <p>Name: talha faisal  <br>
+	Semester BSCS - 6F <br>
+	Subject: Web programing <br>
+	Roll no: 28148 <br>
+	City: islamabad  <br>
+
+
+<h2>image </h2>
+
+    <p><Image      src="C:\Users\Talha Mehar\Desktop\talha faisal image"	alt="Picture talha faisal "	width={500} height={500} />
+     </p>
+
+<h3>hobies</h3>
+
+  <p> photography <br>
+     badminton<br> 
+     cricket <br> 
+      singing <br> </p>
+
+<h4>paragraph </h4>
+
+  <p> Life is meant to be lived passionately and with a vision to do good for your fellow beings<br>
+      Keeping this aim in mind, I have always aspired to serve my people in whatever capacity I can <br> 
+      I am thankful to my parents, friends and school teachers for standing beside me in every step of life<br>
+      I am truly luck <br> </p>
+
+<h5>working experince in field </h5>
+
+  <p> no working experience in computer field <br>
+      have some experience in agriculture field <br>
+      i have some information about plants .. like sculants , cactus etc <br> </p>
+
+<h6>adress </h6>
+  <p>  welcome nursary ptv2 rood neear excise office h 9/3 <br> </p>
+</body>
+
+</html>
